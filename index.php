@@ -83,7 +83,7 @@ function unlock(){
   </div><br>   
    
   <div class="col-sm-6">
-      <button type="button" class="btn btn-lg btn-success btn-block">
+      <button type="button" onclick="location.href='twiliosms.php'" class="btn btn-lg btn-success btn-block">
       <a class="fas fa-camera" id="buttonIcon"></a>Image Capture
       </button><br>
   </div><br>
